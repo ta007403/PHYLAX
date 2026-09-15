@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT60JFILM
+D SMALL SIGNAL SCHOTTKY DIODE
+K
+F https://www.st.com/resource/en/datasheet/bat60.pdf
+$ENDCMP
+#
+#End Doc Library

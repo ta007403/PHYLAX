@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F205RET6
+D Arm-based 32-bit MCU, 150 DMIPs, up to 1 MB Flash/128+4KB RAM, USB OTG HS/FS, Ethernet, 17 TIMs, 3 ADCs, 15 comm. interfaces and camera
+K
+F https://www.st.com/resource/en/datasheet/stm32f205rb.pdf
+$ENDCMP
+#
+#End Doc Library

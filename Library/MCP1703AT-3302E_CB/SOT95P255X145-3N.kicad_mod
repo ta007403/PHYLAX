@@ -1,0 +1,239 @@
+(footprint "SOT95P255X145-3N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "MCP1703AT-3302E/CB")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at -1.1 -2.1 0)
+		(layer "F.SilkS")
+		(uuid "00d5f0f5-6910-4428-8570-b8156db75d1b")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "SOT95P255X145-3N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "614928c1-d52a-40a0-9aa2-b583837efb75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07356616-dc4b-4253-a168-f09d61e63ecd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb5ee1dc-897d-49d9-b16a-2b756d4d1996")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.85 -1.5)
+		(end -0.45 -1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ebfacfd-aafa-494a-a88c-f3d564d61068")
+	)
+	(fp_line
+		(start -0.1 -1.45)
+		(end 0.1 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5d8c5180-b51d-4bf1-9e13-5a8b685fca64")
+	)
+	(fp_line
+		(start -0.1 1.45)
+		(end -0.1 -1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4decffc9-ea9f-4e68-bad6-77fe4ecfde1d")
+	)
+	(fp_line
+		(start 0.1 -1.45)
+		(end 0.1 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a71d5d6d-5d88-47f3-8b26-16bf57ab1171")
+	)
+	(fp_line
+		(start 0.1 1.45)
+		(end -0.1 1.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cd6e1c4a-a8a2-404a-b609-e807d2757911")
+	)
+	(fp_line
+		(start -2.1 -1.8)
+		(end 2.1 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "41a01370-9ada-4e1e-82a2-a2e5857b24db")
+	)
+	(fp_line
+		(start -2.1 1.8)
+		(end -2.1 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88aecb1b-8b2f-4845-a0d4-40e648eb709e")
+	)
+	(fp_line
+		(start 2.1 -1.8)
+		(end 2.1 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0219ba85-3fff-446d-a90c-458480e227ae")
+	)
+	(fp_line
+		(start 2.1 1.8)
+		(end -2.1 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ecea8a2-db86-441c-85f6-b7c2e9fc275d")
+	)
+	(fp_line
+		(start -0.75 -1.45)
+		(end 0.75 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "36e398ea-ec7a-49bc-a08a-6e88104ad8e5")
+	)
+	(fp_line
+		(start -0.75 -0.5)
+		(end 0.2 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b20ca472-7f7c-4a55-8d06-90141fa71e06")
+	)
+	(fp_line
+		(start -0.75 1.45)
+		(end -0.75 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e26566bb-b20f-400b-823a-e198912c3931")
+	)
+	(fp_line
+		(start 0.75 -1.45)
+		(end 0.75 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9518fa77-62bf-42fa-8ea9-f006d35c150f")
+	)
+	(fp_line
+		(start 0.75 1.45)
+		(end -0.75 1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b8f82128-777e-42ed-8659-37846da0b118")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "36ee844b-5799-468b-9dbb-1974ffcedac6")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.15 -0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ede33c63-9938-45bd-905f-3b87aa23dca6")
+	)
+	(pad "2" smd rect
+		(at -1.15 0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3c3ebb4d-b9fd-409e-9863-7d891920676f")
+	)
+	(pad "3" smd rect
+		(at 1.15 0 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "80ab7878-c92a-4f2e-8a6f-71b74b4537c9")
+	)
+	(embedded_fonts no)
+	(model "MCP1703AT-3302E_CB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

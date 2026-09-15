@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1703AT-3302E_CB
+D LDO Low Iq 250mA 16V 3.3V 2% SOT23A Microchip MCP1703AT-3302E/CB, LDO Voltage Regulator, 250mA, 3.3 V 2%, 2.7  16 Vin, 3-Pin SOT-23A
+K
+F 
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS15-1212-100-BK-260-SCR-D
+D 12 x 12 mm, 10 mm Actuator Height Off PCB, 260 gf, Black, Short Crimped, Through Hole, SPST, Tactile Switch
+K
+F https://www.sameskydevices.com/product/resource/ts15.pdf
+$ENDCMP
+#
+#End Doc Library

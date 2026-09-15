@@ -1,0 +1,17 @@
+SKHCBEA010 = 1.27 N
+SKHCBGA010  =2.55 N
+
+RC0603FR-07910KL แทด 910k 1% R
+RC0603FR-0710KL แทน 10K 1% R
+
+C2827688 ทดแทน PRTR5V0U2X
+
+รอบหน้าต้องแก้
+I think the real issue is not the capacitors.
+Your design comments indicate:
+
+22 µF / 25 V 1206
+4.7 µF / 25 V 0805
+10 µF / 16 V 0805
+
+But the PCB footprint is 0603.

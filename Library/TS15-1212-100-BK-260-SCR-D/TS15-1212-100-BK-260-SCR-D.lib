@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TS15-1212-100-BK-260-SCR-D
+#/17828997/933960/2.50/4/2/Switch (4-Pin Push)
+DEF TS15-1212-100-BK-260-SCR-D S 0 30 Y Y 1 F N
+F0 "S" 500 250 50 H V L CNN
+F1 "TS15-1212-100-BK-260-SCR-D" 500 150 50 H V L CNN
+F2 "TS151212100BK160SCRD" 500 50 50 H I L CNN
+F3 "https://www.sameskydevices.com/product/resource/ts15.pdf" 500 -50 50 H I L CNN
+F4 "12 x 12 mm, 10 mm Actuator Height Off PCB, 260 gf, Black, Short Crimped, Through Hole, SPST, Tactile Switch" 500 -150 50 H I L CNN "Description"
+F5 "10" 500 -250 50 H I L CNN "Height"
+F6 "179-TS151212100260SC" 500 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS15-1212-100-BK-260-SCR-D?qs=t7xnP681wgWNKD%2FdOklCXg%3D%3D" 500 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Same Sky" 500 -550 50 H I L CNN "Manufacturer_Name"
+F9 "TS15-1212-100-BK-260-SCR-D" 500 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 0 -200 100 R 50 50 0 0 P
+X ~ 3 600 0 100 L 50 50 0 0 P
+X ~ 4 600 -200 100 L 50 50 0 0 P
+P 2 0 1 6 100 -200 100 0 N
+P 2 0 1 6 100 -100 200 -100 N
+P 2 0 1 6 400 -100 500 -100 N
+P 2 0 1 6 500 -200 500 0 N
+P 2 0 1 6 240 -90 330 0 N
+C 220 -100 20 0 1 10 N
+C 380 -100 20 0 1 10 N
+ENDDRAW
+ENDDEF
+#
+#End Library
