@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "QFP50P1200X1200X160-64N"
+		(property "Footprint" "STM32F205RET6:QFP50P1200X1200X160-64N"
 			(at 49.53 -84.76 0)
 			(effects
 				(font

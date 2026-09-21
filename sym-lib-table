@@ -18,4 +18,6 @@
   (lib (name "MF-MSMF050-2")(type "KiCad")(uri "${KIPRJMOD}/Library/MF-MSMF050-2/MF-MSMF050-2.kicad_sym")(options "")(descr ""))
   (lib (name "FH12-24S-0_5SH_55_")(type "KiCad")(uri "${KIPRJMOD}/Library/FH12-24S-0.5SH/FH12-24S-0_5SH_55_.kicad_sym")(options "")(descr ""))
   (lib (name "FH19C-24S-0_5SH_10_")(type "KiCad")(uri "${KIPRJMOD}/Library/FH19C-24S-0.5SH_10/FH19C-24S-0_5SH_10_.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-C-SMD_GT-USB-7010B")(type "KiCad")(uri "${KIPRJMOD}/Library/USB-C-SMD_GT-USB-7010B/USB-C-SMD_GT-USB-7010B.kicad_sym")(options "")(descr ""))
+  (lib (name "IND-SMD_L4.0-W4.0_XAL4040")(type "KiCad")(uri "${KIPRJMOD}/Library/IND-SMD_L4.0-W4.0_XAL4040/IND-SMD_L4.0-W4.0_XAL4040.kicad_sym")(options "")(descr ""))
 )

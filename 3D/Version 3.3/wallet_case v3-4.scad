@@ -284,8 +284,7 @@ cap_engage_h    = (front_panel_t - plunger_top_z) + cap_preload; // shaft length
 usbc_w = (usbc_type == "sink") ? 6.20  : 10.5;  // case opening width  (mm)
 usbc_h = (usbc_type == "sink") ? 3.73  : 4.48;  // case opening height (mm)
 
-//usbc_corner_r = 1.5; //This is old value for rubber USB
-usbc_corner_r = 1.3;
+usbc_corner_r = 1.5;
 
 // Rounded-rectangle cutout for the USB-C port, extruded along Y (through the
 // top wall). Same orientation convention as usbc_oval -- centered at origin
@@ -293,7 +292,7 @@ usbc_corner_r = 1.3;
 module usbc_rounded_rect(w, h, r, depth) {
     translate([0, -2, 0 + 0.5])
     rotate([90, 0, 0])
-    translate([0, 0 - 0.95 , -depth]) //Move up a bit since we change USB type
+    translate([0, 0, -depth])
     linear_extrude(height = depth + 1)
         translate([-w/2, -h/2])
             rounded_rect(w, h, r);
@@ -305,8 +304,8 @@ usbc_body_h       = (usbc_type == "sink") ? 4.20 : 3.20; // total connector body
 usbc_center_above_pcb = (usbc_body_h - usbc_sink_depth) / 2; // center above PCB top surface
 
 // Final cut dimensions (raw + clearance)
-usbc_cut_w = usbc_w + 2*usbc_clearance - 1.4; //This is adjust USB to fit with current model
-usbc_cut_h = usbc_h + 2*usbc_clearance - 1.1; //This is adjust USB to fit with current model
+usbc_cut_w = usbc_w + 2*usbc_clearance;
+usbc_cut_h = usbc_h + 2*usbc_clearance + 0.3;
 usbc_cut_r = usbc_cut_h / 2;
 
 // Z center of the oval in case-world (front-shell-local) coordinates.

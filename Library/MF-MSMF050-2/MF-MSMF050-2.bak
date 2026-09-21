@@ -106,7 +106,7 @@
 				(hide yes)
 			)
 		)
-		(property "fd" "C17313"
+		(property "LCSC Part #" "C17313"
 			(at 0 0 0)
 			(effects
 				(font

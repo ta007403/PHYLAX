@@ -27,7 +27,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "FUSC4632X85N"
+		(property "Footprint" "MF-MSMF050-2:FUSC4632X85N"
 			(at 13.97 -96.19 0)
 			(effects
 				(font

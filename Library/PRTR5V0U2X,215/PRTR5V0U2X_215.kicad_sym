@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "PRTR5V0U2X"
+		(property "Footprint" "PRTR5V0U2X,215:PRTR5V0U2X"
 			(at 21.59 -87.3 0)
 			(effects
 				(font

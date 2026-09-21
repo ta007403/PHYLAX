@@ -20,4 +20,6 @@
   (lib (name "FH12-24S-0.5SH")(type "KiCad")(uri "${KIPRJMOD}/Library/FH12-24S-0.5SH")(options "")(descr ""))
   (lib (name "FH19C-24S-0.5SH_10")(type "KiCad")(uri "${KIPRJMOD}/Library/FH19C-24S-0.5SH_10")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/TC2030-IDC-Mod/Library.pretty")(options "")(descr ""))
+  (lib (name "USB-C-SMD_GT-USB-7010B")(type "KiCad")(uri "${KIPRJMOD}/Library/USB-C-SMD_GT-USB-7010B")(options "")(descr ""))
+  (lib (name "IND-SMD_L4.0-W4.0_XAL4040")(type "KiCad")(uri "${KIPRJMOD}/Library/IND-SMD_L4.0-W4.0_XAL4040")(options "")(descr ""))
 )

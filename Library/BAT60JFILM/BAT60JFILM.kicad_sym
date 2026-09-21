@@ -27,7 +27,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOD2513X117N"
+		(property "Footprint" "BAT60JFILM:SOD2513X117N"
 			(at 12.7 -93.65 0)
 			(effects
 				(font

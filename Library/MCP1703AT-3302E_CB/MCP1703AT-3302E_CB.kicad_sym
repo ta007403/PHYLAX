@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOT95P255X145-3N"
+		(property "Footprint" "MCP1703AT-3302E_CB:SOT95P255X145-3N"
 			(at 24.13 -94.92 0)
 			(effects
 				(font
