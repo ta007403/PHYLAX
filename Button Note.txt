@@ -15,3 +15,16 @@ Your design comments indicate:
 10 µF / 16 V 0805
 
 But the PCB footprint is 0603.
+
+------------------------------------------------
+LCSC Part #
+100nFX7R0603 = C14663
+100nFX7R25V0603 = C14663
+R1 R2 = C852856
+R3 = C313710
+R4 = C2686485
+R5 = C22356470
+R7 = C2909316
+R9 = C137672
+R10 = C2974031
+R11 = C98220
