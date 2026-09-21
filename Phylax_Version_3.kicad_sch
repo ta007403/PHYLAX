@@ -7667,8 +7667,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
-			(at 97.79 40.386 90)
+		(property "Value" "100nF X7R 25V 0603"
+			(at 98.044 35.814 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9026,8 +9026,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
-			(at 157.988 76.454 90)
+		(property "Value" "100nF X7R 25V 0603"
+			(at 164.846 76.962 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11576,7 +11576,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 73.66 100.33 90)
 			(effects
 				(font
@@ -11719,8 +11719,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
-			(at 67.31 77.47 90)
+		(property "Value" "100nF X7R 25V 0603"
+			(at 62.992 77.978 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13978,7 +13978,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 178.308 192.278 90)
 			(effects
 				(font
@@ -14092,7 +14092,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C137672"
+		(property "LCSC Part #" "C23263"
 			(at 215.9 218.44 0)
 			(effects
 				(font
@@ -14134,8 +14134,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
-			(at 136.652 155.448 90)
+		(property "Value" "100nF X7R 25V 0603"
+			(at 136.906 159.512 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14808,7 +14808,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 399.796 207.264 90)
 			(effects
 				(font
@@ -15165,8 +15165,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
-			(at 94.996 160.528 90)
+		(property "Value" "100nF X7R 25V 0603"
+			(at 94.996 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)

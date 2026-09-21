@@ -420,7 +420,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4326,7 +4326,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5019,7 +5019,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5860,7 +5860,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6601,7 +6601,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8401,7 +8401,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C137672"
+		(property "LCSC Part #" "C23263"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10550,7 +10550,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12655,7 +12655,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -13276,7 +13276,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF X7R 0603"
+		(property "Value" "100nF X7R 25V 0603"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
