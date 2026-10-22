@@ -21,4 +21,7 @@
   (lib (name "USB-C-SMD_GT-USB-7010B")(type "KiCad")(uri "${KIPRJMOD}/Library/USB-C-SMD_GT-USB-7010B/USB-C-SMD_GT-USB-7010B.kicad_sym")(options "")(descr ""))
   (lib (name "IND-SMD_L4.0-W4.0_XAL4040")(type "KiCad")(uri "${KIPRJMOD}/Library/IND-SMD_L4.0-W4.0_XAL4040/IND-SMD_L4.0-W4.0_XAL4040.kicad_sym")(options "")(descr ""))
   (lib (name "SKHCBGA010")(type "KiCad")(uri "${KIPRJMOD}/Library/SKHCBGA010/SKHCBGA010.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX3485AEASA+T")(type "KiCad")(uri "${KIPRJMOD}/Library/MAX3485AEASA+T/MAX3485AEASA+T.kicad_sym")(options "")(descr ""))
+  (lib (name "ESDA7P60-1U1M")(type "KiCad")(uri "${KIPRJMOD}/Library/ESDA7P60-1U1M/ESDA7P60-1U1M.kicad_sym")(options "")(descr ""))
+  (lib (name "SM712")(type "KiCad")(uri "${KIPRJMOD}/Library/SM712/SM712.kicad_sym")(options "")(descr ""))
 )
