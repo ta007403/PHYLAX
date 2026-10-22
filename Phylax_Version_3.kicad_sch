@@ -6663,6 +6663,12 @@
 		(uuid "c768efd0-48cd-4732-aeb7-c5c20252e056")
 	)
 	(junction
+		(at 91.44 193.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d1c89967-539c-4dae-b34a-7f8b926c7658")
+	)
+	(junction
 		(at 151.13 287.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6894,7 +6900,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 193.04) (xy 102.87 193.04)
+			(xy 81.28 193.04) (xy 91.44 193.04)
 		)
 		(stroke
 			(width 0)
@@ -6984,6 +6990,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 193.04) (xy 102.87 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aff582f-dc8f-44a7-b3c4-1b5b0ee33e5e")
+	)
+	(wire
+		(pts
 			(xy 137.16 209.55) (xy 140.97 209.55)
 		)
 		(stroke
@@ -6991,6 +7007,16 @@
 			(type default)
 		)
 		(uuid "0b6f0d7e-bee0-4265-b062-13284f49c228")
+	)
+	(wire
+		(pts
+			(xy 91.44 186.69) (xy 91.44 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bfbc01b-83a6-4503-9a49-685e1d66f5ec")
 	)
 	(wire
 		(pts
@@ -11359,6 +11385,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 91.44 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c63d982-5d6c-4d30-9190-843f05fbc2a9")
+		(property "Reference" "TP4"
+			(at 90.424 178.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 89.916 181.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+			(at 96.52 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 91.44 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0ddc4f2-0845-4419-95c6-6ec1a54ebef2")
+		)
+		(instances
+			(project "Phylax_Version_3"
+				(path "/a5868699-0dc2-4f28-b856-150dc0abaa0a"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 102.87 193.04 90)
 		(unit 1)
@@ -15298,6 +15390,72 @@
 			(project "Phylax_Version_1"
 				(path "/a5868699-0dc2-4f28-b856-150dc0abaa0a"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 83.82 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ba66425-de9b-4a2f-93a4-4ddfbf8c10ec")
+		(property "Reference" "TP3"
+			(at 82.804 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "+5V"
+			(at 81.788 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+			(at 88.9 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cfb72b28-7d85-4861-b4f0-c86a37b2902a")
+		)
+		(instances
+			(project "Phylax_Version_3"
+				(path "/a5868699-0dc2-4f28-b856-150dc0abaa0a"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
